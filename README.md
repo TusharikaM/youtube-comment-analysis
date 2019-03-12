@@ -4,5 +4,7 @@ Give summary and expectation of people about new movie trailers on youtube by an
 This project was a parth of subject-Advance Information Systems- University of Georgia
 
 ## Contributors-
+## Tusharika Mishra
 ## Hiten Nirmal
 ## Gaurav Agrawal
+
